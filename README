@@ -1,0 +1,8 @@
+download and extract the Zip file 
+
+after extracting, open file in editor of your choice and 
+run command => npm install 
+then => npm start 
+app will be ready in few seconds then 
+you can start your application on 3000 port number
+in your browser....
